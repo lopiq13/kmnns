@@ -24,4 +24,3 @@ window.addEventListener('popstate', (event) => {
   currentSlide = 0;
   slideContainer.style.transform = 'translateX(0)';
 });
-
